@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akansha2002&label=Profile%20views&color=0e75b6&style=flat" alt="akansha2002" /> </p>
 
-- 🙋‍♀️ I’m a prefinal year undergrad pursuing BTech in IT.
-
-- 🌱 I’m currently learning **NodeJs**
+- 🙋‍♀️ I’m a 2024 graduate pursued BTech in Information Technology.
 
 - 👯 I’m looking to collaborate on **projects related to web.**
 
